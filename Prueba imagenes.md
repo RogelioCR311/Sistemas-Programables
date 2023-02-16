@@ -1,1 +1,1 @@
-![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fraspberrypi%2Findex.html&psig=AOvVaw13n7FRYgLqBrww-Dy25Nb-&ust=1676674238521000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMizzLeQm_0CFQAAAAAdAAAAABAD](https://www.vectorlogo.zone/util/preview.html?image=/logos/raspberrypi/raspberrypi-ar21.svg))
+![](https://wikis.fdi.ucm.es/ELP/Archivo:Raspberry-Pi-Logo1-620x350.png)
