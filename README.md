@@ -1,3 +1,3 @@
 # Sistemas-Programables
 
-[Actividad: Pruebas en Markdown]
+[Actividad: Pruebas en Markdown](./Prueba imagenes.md)
