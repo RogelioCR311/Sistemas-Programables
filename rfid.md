@@ -1,1 +1,1 @@
-[Libreria](../Proyecto RFID RC522)
+[Libreria](.//Proyecto RFID RC522/mfrc522.py) 
