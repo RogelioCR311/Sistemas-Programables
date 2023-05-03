@@ -76,7 +76,7 @@ oled_reset = board.GP9
 # STEMMA I2C on picowbell
 sda, scl = board.GP16, board.GP17
 i2c = busio.I2C(scl, sda)
-display_bus = displayio.I2CDisplay(i2c, device_address=0x3c, reset=oled_reset)
+display_bus = displayio.I2CDisplay(i2c, device_address=0x3d, reset=oled_reset)
 
 WIDTH = 128
 HEIGHT = 64
