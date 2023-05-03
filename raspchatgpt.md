@@ -1,4 +1,4 @@
-´´´python
+```python
 import json
 import os
 import ssl
@@ -241,4 +241,4 @@ except Exception as e: # pylint: disable=broad-except
             break
     supervisor.reload()
 
-´´´
+```
